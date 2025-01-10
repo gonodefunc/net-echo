@@ -12,7 +12,7 @@ $ make build
 
 In Window 1:
 
-    $ ./bin/port-server :: udp UDP-PORT1,UDP-PORT2 tcp TCP-PORT1,TCP-PORT2
+    $ ./port-server :: udp UDP-PORT1,UDP-PORT2 tcp TCP-PORT1,TCP-PORT2
 
 In Window 2:
 
